@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "greeting": "Good Morning",
+        "welcome": ", and welcome to ",
+        "room": "! Room ",
+        "signOff": " is now ready for you. Enjoy your stay, and let us know if you need anything."
+    },
+    {
+        "id": 2,
+        "greeting": "Good Afternoon",
+        "welcome": ", and welcome to ",
+        "room": "! Room ",
+        "signOff": " is now ready for you. Enjoy your stay, and let us know if you need anything."
+    },
+    {
+        "id": 3,
+        "greeting": "Good Evening",
+        "welcome": ", and welcome to ",
+        "room": "! Room ",
+        "signOff": " is now ready for you. Enjoy your stay, and let us know if you need anything."
+    }
+]

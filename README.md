@@ -1,3 +1,6 @@
+## Message Template Coding Challenge ##
+This is a simple react app for composing a message from a template.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
